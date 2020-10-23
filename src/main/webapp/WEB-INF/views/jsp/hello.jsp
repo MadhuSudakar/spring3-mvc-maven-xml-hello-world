@@ -75,11 +75,8 @@
       </table>  
 	</div>
 	<div class="col-md-4">
-		<h2>Heading</h2>
-		<p>ABC</p>
-		<p>
-			<a class="btn btn-default" href="#" role="button">View details</a>
-		</p>
+		<h2>Looking...</h2>
+	<span style='font-size:100px;'>&#128525;</span>
 	</div>
   </div>
  
