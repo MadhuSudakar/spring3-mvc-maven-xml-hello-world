@@ -41,18 +41,38 @@
  
   <div class="row">
 	<div class="col-md-4">
-		<h2>Heading</h2>
-		<p>ABC</p>
-		<p>
-			<a class="btn btn-default" href="#" role="button">View details</a>
-		</p>
+		<h2>Employer Information</h2>
+		<table>
+         <tr>
+            <td>Name</td>
+            <td>Madhu Sudakar</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>30</td>
+         </tr>
+         <tr>
+            <td>ID</td>
+            <td>BI0008</td>
+         </tr>
+      </table> 
 	</div>
 	<div class="col-md-4">
-		<h2>Heading</h2>
-		<p>ABC</p>
-		<p>
-			<a class="btn btn-default" href="#" role="button">View details</a>
-		</p>
+		<h2>Employer Address</h2>
+		<table>
+         <tr>
+            <td>City</td>
+            <td>Bangalore</td>
+         </tr>
+         <tr>
+            <td>State</td>
+            <td>Karnataka</td>
+         </tr>
+         <tr>
+            <td>Country</td>
+            <td>India</td>
+         </tr>
+      </table>  
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
